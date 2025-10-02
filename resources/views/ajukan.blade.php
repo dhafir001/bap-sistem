@@ -517,7 +517,7 @@
         
         <div class="form-group">
           <label for="tujuan" class="required">Tujuan BAP</label>
-          <textarea id="tujuan" name="tujuan" rows="4" required placeholder="Tuliskan tujuan dan alasan pengajuan BAP"></textarea>
+          <textarea id="tujuan" name="tujuan" rows="4" required placeholder="TUliskan Pengajuan BAP/Hilang/Rusak/Perbuah Data Paspor"></textarea>
           <div class="error-message" id="tujuanError"></div>
         </div>
         
